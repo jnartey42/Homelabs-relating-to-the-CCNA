@@ -4,6 +4,8 @@ OSI Model & TCP/IP Suite
 
 Jeremy's IT Labs on YouTube
 
+------------------
+
 Comprehension: In this video, Jeremy teaches about a widely used networking model that network engineers use in order to discuss internet protocols and standards. These protocols and standards are in place in order for different devices and software to communicate with each other on a unified level. This is the OSI Model. Standing for "Open Systems Interconnection", it's a conceptual model that was created by the International Organization for Standardization in order to higlight the different functions in a network. From top to bottom, it looks like:
 
 7 - Application
@@ -32,5 +34,6 @@ Each layer has their own responsibility, in which Jeremy talks about in full. Ne
 
 Layers 7, 6, and 5 of the OSI model are combined into one layer, known as layer 4 of the TCP model. The transport layer stays the same, the network layer turns into the internet layer, and layers 2 and 1 of OSI becomes layer 1, the link layer.
 
+------------------
 
 Lab: We use Cisco Packet Tracer in order to analyze a pre-configured network, in Simulation mode. Looking at the simulation panel after clicking a device, we see various events happening on many levels of the OSI model. Besides seeing activity on the network itself, the simulation panel highlights many protocol data units moving between layers, and ultimately between devices. This lab is largely just to see how data moves from start to finish on a network, step by step.
