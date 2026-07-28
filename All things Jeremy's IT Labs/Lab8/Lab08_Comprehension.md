@@ -13,4 +13,4 @@ Day 8 focuses more on calculations, specifically how to calculate the maximum nu
 
 --------------
 
-Lab: 
+Lab: Given 3 different networks all connecting to one router `(Screenshot Q1)`, the purpose of this lab is to get familiar with configuration on a Cisco based router. By using the CLI, we enter privileged exec mode and use the command `show ip interface brief`, and we're shown a table with all the information of the available interfaces, their IP address, if they're functional, and configuration status `(Screenshot Q2)`. All the Q3 labelled screenshots deal with step by steps on properly enabling each interface for usage.  `Screenshot Q5` deals with updating the running-config to the starting config of the router, and once again printing out information on the interfaces to see the updates made. `Screenshot Q7` demonstrates successful ping attempts from one computer to another, after all the configuration.
