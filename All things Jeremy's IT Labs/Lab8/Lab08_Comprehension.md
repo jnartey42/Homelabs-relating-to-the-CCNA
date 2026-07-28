@@ -1,6 +1,6 @@
 Lab 08 - July 27th 2026
 
-Configuring Interfaces
+Configuring IP Addresses
 
 Jeremy's IT Labs on YouTube
 
