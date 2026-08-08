@@ -1,4 +1,4 @@
-Lab 08 - July 28th 2026
+Lab 09 - July 28th 2026
 
 Configuring Interfaces
 
