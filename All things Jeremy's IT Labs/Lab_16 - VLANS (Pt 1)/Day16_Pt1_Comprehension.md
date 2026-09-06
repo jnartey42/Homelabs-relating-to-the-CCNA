@@ -1,4 +1,4 @@
-Lab 09 - August 19th 2026
+Lab 16 - August 19th 2026
 
 VLANS (Virtual Local Area Networks, Part 1)
 
