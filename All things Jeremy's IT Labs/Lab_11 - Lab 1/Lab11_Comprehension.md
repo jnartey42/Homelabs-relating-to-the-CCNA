@@ -1,6 +1,7 @@
 Lab 11 Day 1 - August 5th 2026
 
 Material video - Routing Fundamentals
+
 Lab video - Static Route Configuration
 
 Jeremy's IT Labs on YouTube
